@@ -153,6 +153,9 @@ http://119.156.26.155:8000/play/a063/index.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Entertainment", &tv HD
 http://119.156.26.155:8000/play/a074/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Entertainment", Sony aath
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
+
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Entertainment", Comedy Central
 http://119.156.26.155:8000/play/a065/index.m3u8
 
