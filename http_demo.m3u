@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="JamunaTV" tvg-name="Jamuna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Jamuna_TV_logo.svg/1200px-Jamuna_TV_logo.svg.png" group-title="News", Jamuna TV
+http://103.205.133.71/JamunaTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="StarJalsha" tvg-name="Star Jalsha FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Star_Jalsha_New_Logo.png" group-title="Entertainment", Star Jalsha FHD
+http://103.205.133.71/StarJalshaFHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ColorsHD" tvg-name="Colors HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Colors_HD_logo.svg/1200px-Colors_HD_logo.svg.png" group-title="Entertainment", Colors HD
+http://103.205.133.71/colorshd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="LiveEvent1" tvg-name="Live Event 1" tvg-logo="https://example.com/event1logo.png" group-title="Events", Live Event 1
+http://103.205.133.71/LiveEvent1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBangla" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Zee_Bangla_logo.png" group-title="Entertainment", Zee Bangla
+http://103.205.133.71/ZeeBangla/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel23HD" tvg-name="Channel 23 HD" tvg-logo="https://example.com/channel23logo.png" group-title="General", Channel 23 HD
+http://103.205.133.71/Channel23HD/tracks-v1a1/mono.m3u8
