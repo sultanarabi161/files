@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://example.com/logo.png" group-title="Developer Info", Sultan IPTV
+https://projects-media.vercel.app/projects/info.html
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WgnhDdD/1000010471.png" group-title="General", Independent TV
 http://bapatv.live:8080/independent/index.m3u8
 
