@@ -6,6 +6,9 @@ https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ry42Nhk/1000010471.png" group-title="Bangladeshi", Radio Padma
 http://cassini.shoutca.st:9109/radiopadma.mp3
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ry42Nhk/1000010471.png" group-title="Indian", Spice FM
+https://stream.spicefmbd.com/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ry42Nhk/1000010471.png" group-title="Indian", Sayaji FM
 https://sayajifm.radioca.st/stream/;?1707488287650
 
